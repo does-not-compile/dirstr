@@ -29,7 +29,7 @@ You can also copy it to your bin directory to use as command in your terminal of
 
 ```
 chmod +x dirstr.py
-sudo mv dirstr.py usr/local/bin/dirstr
+sudo mv dirstr.py /usr/local/bin/dirstr
 ```
 
 After these commands, you can run the `dirstr` command from anywhere.
